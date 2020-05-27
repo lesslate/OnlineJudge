@@ -15,7 +15,7 @@ vector<int> solution(vector<int> heights)
 		}
 		else
 		{
-			for (j = i; j < 0; j--)
+			for (j = i; j > -1; j--)
 			{
 				if (heights[i] < heights[j])
 				{

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.757
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1966", "1966\1966.vcxproj", "{A6892824-1661-49F7-860C-D79245793850}"
 EndProject
@@ -40,6 +40,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "위장", "위장\위장.vcxproj", "{D754A2B6-E4F4-474F-89F2-6DF83E7A3206}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "탑", "탑\탑.vcxproj", "{D8062AC4-B781-4F40-AEB0-2D6EB1DE4CC2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "베스트앨범", "베스트앨범\베스트앨범.vcxproj", "{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,14 @@ Global
 		{D8062AC4-B781-4F40-AEB0-2D6EB1DE4CC2}.Release|x64.Build.0 = Release|x64
 		{D8062AC4-B781-4F40-AEB0-2D6EB1DE4CC2}.Release|x86.ActiveCfg = Release|Win32
 		{D8062AC4-B781-4F40-AEB0-2D6EB1DE4CC2}.Release|x86.Build.0 = Release|Win32
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Debug|x64.ActiveCfg = Debug|x64
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Debug|x64.Build.0 = Debug|x64
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Debug|x86.Build.0 = Debug|Win32
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Release|x64.ActiveCfg = Release|x64
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Release|x64.Build.0 = Release|x64
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Release|x86.ActiveCfg = Release|Win32
+		{3802D269-F9D3-4CFB-853A-A0DC0714A4A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
